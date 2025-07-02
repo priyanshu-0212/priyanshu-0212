@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **priyanshusrivastava514@gmail.com**
 
+- LinkedIn Profile **https://www.linkedin.com/in/priyanshu-sri2002/**
+
+- LeetCode Profile **https://leetcode.com/u/priyanshu_0212/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

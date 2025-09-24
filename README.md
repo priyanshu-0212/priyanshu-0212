@@ -5,9 +5,6 @@
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Priyanshu Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-0212&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-0212" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-0212" alt="priyanshu-0212" /></a> </p>

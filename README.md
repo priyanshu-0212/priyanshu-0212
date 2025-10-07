@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-0212" alt="priyanshu-0212" /></a> </p>
 
-- 💬 Ask me about **react, python, dsa , html, css**
+- 💬 Ask me about **react, python, dsa , html, css, javascript**
 
 - 📫 How to reach me **priyanshusrivastava514@gmail.com**
 

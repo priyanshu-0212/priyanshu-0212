@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Srivastava</h1>
 <h3 align="center">A passionate full-stack developer who uses MERN for developement </h3>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<div align="center">
+
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 </div>
 

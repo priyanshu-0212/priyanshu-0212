@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Srivastava</h1>
 <h3 align="center">A passionate full-stack developer who uses MERN for developement </h3>
 
-                         <img height="200" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
+<img height="200" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-0212&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-0212" /> </p>
